@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+tensorflow
+prophet
+lightgbm
+xgboost
+# autots # Uncomment if you decide to include AutoTS in the app
